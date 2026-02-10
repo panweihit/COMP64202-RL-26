@@ -12,7 +12,7 @@ This course explores how agents learn to make decisions through interaction with
 
 |  **COMP64202**  | **Lab Session**                          | **Lab Link** | **Location** | 
 |--------------------------|-----------------------------------------|----------------------|---------------------|
-| Feb 6, 2026           | Markov Decision Processes                                    | [Lab1](https://github.com/panweihit/COMP64202-RL-26/tree/main/Lab1-MDP) | Kilburn_2.25 (A+B) |
-| Feb 25, 2026                | Function Approximation                               | [Lab2](https://github.com/panweihit/COMP64202-RL-26/tree/main/Lab2-FA) | Kilburn_2.25 (A+B) |
-| Mar , 2026                | Policy Gradients                               | [Lab3](https://github.com/panweihit/COMP64202-RL-26/tree/main/Lab3-PG) | Kilburn_2.25 (A+B) |
+| Feb 20, 2026           | Markov Decision Processes                                    | [Lab1](https://github.com/panweihit/COMP64202-RL-26/tree/main/Lab1-MDP) | Kilburn_2.25 (A+B) |
+| Mar 6, 2026                | Function Approximation                               | [Lab2](https://github.com/panweihit/COMP64202-RL-26/tree/main/Lab2-FA) | Kilburn_2.25 (A+B) |
+| Mar 27, 2026                | Policy Gradients                               | [Lab3](https://github.com/panweihit/COMP64202-RL-26/tree/main/Lab3-PG) | Kilburn_2.25 (A+B) |
 | Apr , 2026                | POMDP and Multi-Agent RL                               | [Lab4](https://github.com/panweihit/COMP64202-RL-26/tree/main/Lab4-POMDP-MARL) | Kilburn_2.25 (A+B) |
